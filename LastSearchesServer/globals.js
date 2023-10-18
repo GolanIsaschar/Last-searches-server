@@ -1,0 +1,5 @@
+const VALIDATION_ERROR_CODE = "ValidationError";
+const CONNECTED_MONGOOSE_CODE = 1;
+const PORT = 8080;
+
+module.exports = { VALIDATION_ERROR_CODE, CONNECTED_MONGOOSE_CODE, PORT };
